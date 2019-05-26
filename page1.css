@@ -73,3 +73,10 @@ img {
     margin-top: 20px;
     margin-right: 25px;
 }
+
+div.input-group {
+    display: flex;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    box-shadow: 1px 1px 6px -2px rgba(0,0,0,0.44);
+}
